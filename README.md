@@ -1,7 +1,7 @@
 ![wave](https://user-images.githubusercontent.com/71301176/171883563-f3a19513-321d-48f7-a687-a016e60b1575.gif)
 
 
-### Hi there 👋  I'm Ankit Kumar Mishra,a computer science student who loves to read & write codes
+### Hi there 👋  I’m a Lead Data Engineer with ~3 years of experience building scalable data platforms and end-to-end data pipelines for enterprise organisations. I specialise in designing modern data architectures that integrate multiple data sources, apply reliable transformations, and deliver analytics-ready datasets that drive business decisions.
 
 <!--
 **ankitmishra067/ankitmishra067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
